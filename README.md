@@ -1,1 +1,1 @@
-# odin-recipes
+odin recipes is a site for listing recipes. made using html
